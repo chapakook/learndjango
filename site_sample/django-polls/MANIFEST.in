@@ -1,0 +1,4 @@
+include README.rst
+recursive-include polls/staic *
+recursive-include polls/templates *
+recursive-include docs *
